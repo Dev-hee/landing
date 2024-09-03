@@ -1,0 +1,33 @@
+main {
+    text-align: center;
+    margin: 0 auto;
+}
+main .bg1 {
+    background-color: rgb(222, 221, 221);
+    height: 2000px;
+}
+main .bg1 .bg1_1 h2 {
+    font-size: 4.375rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.3;
+    letter-spacing: 0.2px;
+    margin: 35px 0 125px;
+}
+
+main .bg1 .bg1_2 .btn .tutorial_btn, main .bg1 .bg1_2 .btn .download_btn, main .bg4 section .touch .touch_right .more_link button {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 150px;
+    padding: 25px 55px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #6CF460, #806BFB);
+    transition: transform 0.2s;
+
+
+main .bg1 .bg1_2 .btn {
+    width: 1062px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
